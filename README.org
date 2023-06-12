@@ -1,0 +1,10 @@
+* exscribe
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/frideau/exscribe.git   |
+| commit  |   |
+| systems | exscribe |
+|---------+-------------------------------------------|
+
