@@ -1,10 +1,11 @@
 * exscribe
 
+Exscribe is a programmable document generation system written as an
+extension to Common Lisp.  It is designed after Manuel Serrano's
+Scribe (itself based on Bigloo Scheme).
 
-
-|---------+-------------------------------------------|
-| source  | git:https://gitlab.common-lisp.net/frideau/exscribe.git   |
-| commit  |   |
-| systems | exscribe |
-|---------+-------------------------------------------|
-
+|---------+---------------------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/frideau/exscribe.git |
+| commit  | ac60337                                                 |
+| systems | exscribe                                                |
+|---------+---------------------------------------------------------|
